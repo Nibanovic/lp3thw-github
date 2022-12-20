@@ -7,3 +7,6 @@ print(f"So you're {age} years old and {height} centimeters tall.")
 
 # -----
 
+age = input("how old are you? ")
+height = input("How tall are you? ")
+print(f"So you're {age} years old and {height} centimeters tall.")
