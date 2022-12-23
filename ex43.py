@@ -105,7 +105,7 @@ class EscapePod(Scene):
 
         action = input("> ")
 
-        if action == "1111":
+        if action == "1111" or "takemeaway":
             print("""
             The pod doors clock open and pressurize.
             You enter quickly and hit the eject button. The pod
